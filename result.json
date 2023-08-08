@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "nithin1@gmail.com",
+      "password": "$2b$10$pHVqQ1NsYYqDbZ0WZQ6i8eNZd96ANI6EPVjjJmz.lrnFpUaBrAa8a",
+      "preferences": [{ "source": "Aftenposten", "category": "general" }],
+      "userId": 1
+    },
+    {
+      "email": "nithin2@gmail.com",
+      "password": "$2b$10$elTBGufyuswkfHlp.tZxUOLa.CKi3Z1PGU21Bvyj3dxyHbcogDd7e",
+      "preferences": [{ "source": "Aftenposten", "category": "general" }],
+      "userId": 2
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "news-aggregator-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm app.js",
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeWithNithin/News-Aggregator-API.git"
+  },
+  "author": "Nithin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeWithNithin/News-Aggregator-API/issues"
+  },
+  "homepage": "https://github.com/codeWithNithin/News-Aggregator-API#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
